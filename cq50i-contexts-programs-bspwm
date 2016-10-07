@@ -1,0 +1,1 @@
+bspc rule -a URxvtScratch sticky=on floating=on
